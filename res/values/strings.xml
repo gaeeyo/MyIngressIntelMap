@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyIngressIntelMap</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="mapUrl">http://www.ingress.com/intel</string>
+    <string name="ingress">Ingress</string>
+    <string name="currentLocation">現在地</string>
+    <string name="zoomDefault">標準</string>
+    <string name="zoomLong">広角</string>
+    <string name="cantLoadUserScript">userscript.js が読み込めない</string>
+    
+</resources>
